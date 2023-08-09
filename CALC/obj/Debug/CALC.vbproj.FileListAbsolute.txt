@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\CALC\bin\Debug\CALC.exe.config
+c:\users\bright\documents\visual studio 2015\Projects\CALC\bin\Debug\CALC.exe
+c:\users\bright\documents\visual studio 2015\Projects\CALC\bin\Debug\CALC.pdb
+c:\users\bright\documents\visual studio 2015\Projects\CALC\bin\Debug\CALC.xml
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.vbprojResolveAssemblyReference.cache
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.Form1.resources
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.Resources.resources
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.vbproj.GenerateResource.Cache
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.exe
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.xml
+c:\users\bright\documents\visual studio 2015\Projects\CALC\obj\Debug\CALC.pdb

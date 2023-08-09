@@ -1,0 +1,13 @@
+C:\Users\Bright\source\repos\Assignment2\bin\Debug\the_man_ein_code.exe.config
+C:\Users\Bright\source\repos\Assignment2\bin\Debug\the_man_ein_code.exe
+C:\Users\Bright\source\repos\Assignment2\bin\Debug\the_man_ein_code.pdb
+C:\Users\Bright\source\repos\Assignment2\bin\Debug\the_man_ein_code.xml
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\Assignment2.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\Assignment2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\the_man_ein_code.Form1.resources
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\the_man_ein_code.Resources.resources
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\Assignment2.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\Assignment2.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\the_man_ein_code.exe
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\the_man_ein_code.xml
+C:\Users\Bright\source\repos\Assignment2\obj\Debug\the_man_ein_code.pdb
