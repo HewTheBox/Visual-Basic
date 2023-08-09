@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\bin\Debug\araySizeApp.exe.config
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\bin\Debug\araySizeApp.exe
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\bin\Debug\araySizeApp.pdb
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\bin\Debug\araySizeApp.xml
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.vbprojResolveAssemblyReference.cache
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.Form1.resources
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.Resources.resources
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.vbproj.GenerateResource.Cache
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.exe
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.xml
+c:\users\bright\documents\visual studio 2015\Projects\araySizeApp\obj\Debug\araySizeApp.pdb

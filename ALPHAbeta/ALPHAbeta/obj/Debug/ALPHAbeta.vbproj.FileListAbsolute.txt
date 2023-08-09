@@ -1,0 +1,11 @@
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\bin\Debug\ALPHAbeta.exe.config
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\bin\Debug\ALPHAbeta.exe
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\bin\Debug\ALPHAbeta.pdb
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\bin\Debug\ALPHAbeta.xml
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.Form1.resources
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.Resources.resources
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.exe
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.xml
+c:\users\shuga\desktop\ALPHAbeta\ALPHAbeta\obj\Debug\ALPHAbeta.pdb
