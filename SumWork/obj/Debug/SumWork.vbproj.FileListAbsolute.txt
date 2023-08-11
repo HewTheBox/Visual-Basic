@@ -1,0 +1,13 @@
+C:\Users\Bright\source\repos\SumWork\bin\Debug\SumWork.exe.config
+C:\Users\Bright\source\repos\SumWork\bin\Debug\SumWork.exe
+C:\Users\Bright\source\repos\SumWork\bin\Debug\SumWork.pdb
+C:\Users\Bright\source\repos\SumWork\bin\Debug\SumWork.xml
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.Form1.resources
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.Resources.resources
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.exe
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.xml
+C:\Users\Bright\source\repos\SumWork\obj\Debug\SumWork.pdb

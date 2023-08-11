@@ -1,0 +1,15 @@
+c:\users\shuga\desktop\userArrayInput\userArrayInput\bin\Debug\userArrayInput.exe.config
+c:\users\shuga\desktop\userArrayInput\userArrayInput\bin\Debug\userArrayInput.exe
+c:\users\shuga\desktop\userArrayInput\userArrayInput\bin\Debug\userArrayInput.pdb
+c:\users\shuga\desktop\userArrayInput\userArrayInput\bin\Debug\userArrayInput.xml
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.Form1.resources
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.Resources.resources
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.exe
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.xml
+c:\users\shuga\desktop\userArrayInput\userArrayInput\obj\Debug\userArrayInput.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\userArrayInput\userArrayInput\bin\Debug\userArrayInput.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\userArrayInput\userArrayInput\obj\Debug\userArrayInput.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\userArrayInput\userArrayInput\obj\Debug\userArrayInput.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\userArrayInput\userArrayInput\obj\Debug\userArrayInput.pdb

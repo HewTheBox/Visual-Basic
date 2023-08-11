@@ -1,0 +1,13 @@
+C:\Users\Bright\source\repos\SecondForm\bin\Debug\SecondForm.exe.config
+C:\Users\Bright\source\repos\SecondForm\bin\Debug\SecondForm.exe
+C:\Users\Bright\source\repos\SecondForm\bin\Debug\SecondForm.pdb
+C:\Users\Bright\source\repos\SecondForm\bin\Debug\SecondForm.xml
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.Form1.resources
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.Resources.resources
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.exe
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.xml
+C:\Users\Bright\source\repos\SecondForm\obj\Debug\SecondForm.pdb
