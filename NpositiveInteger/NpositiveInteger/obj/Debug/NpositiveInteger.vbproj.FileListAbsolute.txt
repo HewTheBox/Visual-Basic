@@ -1,0 +1,15 @@
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\bin\Debug\NpositiveInteger.exe.config
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\bin\Debug\NpositiveInteger.exe
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\bin\Debug\NpositiveInteger.pdb
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\bin\Debug\NpositiveInteger.xml
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.Form1.resources
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.Resources.resources
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.exe
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.xml
+c:\users\shuga\desktop\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\NpositiveInteger\NpositiveInteger\bin\Debug\NpositiveInteger.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\NpositiveInteger\NpositiveInteger\obj\Debug\NpositiveInteger.pdb

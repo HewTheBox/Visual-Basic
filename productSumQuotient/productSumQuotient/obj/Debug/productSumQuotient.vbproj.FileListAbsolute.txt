@@ -1,0 +1,11 @@
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\bin\Debug\productSumQuotient.exe.config
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\bin\Debug\productSumQuotient.exe
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\bin\Debug\productSumQuotient.pdb
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\bin\Debug\productSumQuotient.xml
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.Form1.resources
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.Resources.resources
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.exe
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.xml
+c:\users\shuga\desktop\productSumQuotient\productSumQuotient\obj\Debug\productSumQuotient.pdb
