@@ -1,0 +1,22 @@
+c:\users\shuga\desktop\discountedTottal\discountedTottal\bin\Debug\discountedTottal.exe.config
+c:\users\shuga\desktop\discountedTottal\discountedTottal\bin\Debug\discountedTottal.exe
+c:\users\shuga\desktop\discountedTottal\discountedTottal\bin\Debug\discountedTottal.pdb
+c:\users\shuga\desktop\discountedTottal\discountedTottal\bin\Debug\discountedTottal.xml
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.Form1.resources
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.Resources.resources
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.exe
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.xml
+c:\users\shuga\desktop\discountedTottal\discountedTottal\obj\Debug\discountedTottal.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\bin\Debug\discountedTottal.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\bin\Debug\discountedTottal.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\bin\Debug\discountedTottal.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\bin\Debug\discountedTottal.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.vbprojResolveAssemblyReference.cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.Form1.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.Resources.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\discountedTottal\discountedTottal\obj\Debug\discountedTottal.vbproj.GenerateResource.Cache

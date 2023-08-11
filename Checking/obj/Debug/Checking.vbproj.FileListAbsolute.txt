@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\Checking\bin\Debug\Checking.exe.config
+c:\users\bright\documents\visual studio 2015\Projects\Checking\bin\Debug\Checking.exe
+c:\users\bright\documents\visual studio 2015\Projects\Checking\bin\Debug\Checking.pdb
+c:\users\bright\documents\visual studio 2015\Projects\Checking\bin\Debug\Checking.xml
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.vbprojResolveAssemblyReference.cache
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.Form1.resources
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.Resources.resources
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.vbproj.GenerateResource.Cache
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.exe
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.xml
+c:\users\bright\documents\visual studio 2015\Projects\Checking\obj\Debug\Checking.pdb
