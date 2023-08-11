@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\Recall\bin\Debug\Recall.exe.config
+c:\users\bright\documents\visual studio 2015\Projects\Recall\bin\Debug\Recall.exe
+c:\users\bright\documents\visual studio 2015\Projects\Recall\bin\Debug\Recall.pdb
+c:\users\bright\documents\visual studio 2015\Projects\Recall\bin\Debug\Recall.xml
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.vbprojResolveAssemblyReference.cache
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.Form1.resources
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.Resources.resources
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.vbproj.GenerateResource.Cache
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.exe
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.xml
+c:\users\bright\documents\visual studio 2015\Projects\Recall\obj\Debug\Recall.pdb

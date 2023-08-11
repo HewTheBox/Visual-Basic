@@ -1,0 +1,32 @@
+c:\users\shuga\desktop\studentsgrade\studentsgrade\bin\Debug\studentsgrade.exe.config
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.vbprojResolveAssemblyReference.cache
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form1.resources
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form2.resources
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form3.resources
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form4.resources
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Resources.resources
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.vbproj.GenerateResource.Cache
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.xml
+c:\users\shuga\desktop\studentsgrade\studentsgrade\bin\Debug\studentsgrade.exe
+c:\users\shuga\desktop\studentsgrade\studentsgrade\bin\Debug\studentsgrade.pdb
+c:\users\shuga\desktop\studentsgrade\studentsgrade\bin\Debug\studentsgrade.xml
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.exe
+c:\users\shuga\desktop\studentsgrade\studentsgrade\obj\Debug\studentsgrade.pdb
+C:\Users\Bright\Documents\studentsgrade\studentsgrade\bin\Debug\studentsgrade.exe.config
+C:\Users\Bright\Documents\studentsgrade\studentsgrade\obj\Debug\studentsgrade.exe
+C:\Users\Bright\Documents\studentsgrade\studentsgrade\obj\Debug\studentsgrade.xml
+C:\Users\Bright\Documents\studentsgrade\studentsgrade\obj\Debug\studentsgrade.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\bin\Debug\studentsgrade.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\bin\Debug\studentsgrade.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\bin\Debug\studentsgrade.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\bin\Debug\studentsgrade.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.vbprojResolveAssemblyReference.cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form1.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form2.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form3.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Form4.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.Resources.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\studentsgrade\studentsgrade\obj\Debug\studentsgrade.vbproj.GenerateResource.Cache

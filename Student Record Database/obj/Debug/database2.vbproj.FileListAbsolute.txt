@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\database2\bin\Debug\database2.exe.config
+c:\users\bright\documents\visual studio 2015\Projects\database2\bin\Debug\database2.exe
+c:\users\bright\documents\visual studio 2015\Projects\database2\bin\Debug\database2.pdb
+c:\users\bright\documents\visual studio 2015\Projects\database2\bin\Debug\database2.xml
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.Form1.resources
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.Resources.resources
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.vbproj.GenerateResource.Cache
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.exe
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.xml
+c:\users\bright\documents\visual studio 2015\Projects\database2\obj\Debug\database2.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\database2\obj\Debug\database2.vbprojResolveAssemblyReference.cache
