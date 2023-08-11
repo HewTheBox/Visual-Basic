@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\KofiGhanaLtd\bin\Debug\KofiGhanaLtd.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\bin\Debug\KofiGhanaLtd.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\bin\Debug\KofiGhanaLtd.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\bin\Debug\KofiGhanaLtd.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.vbprojResolveAssemblyReference.cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.Form1.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.Resources.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.vbproj.GenerateResource.Cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\KofiGhanaLtd\obj\Debug\KofiGhanaLtd.pdb

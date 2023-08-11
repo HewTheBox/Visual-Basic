@@ -1,0 +1,13 @@
+C:\Users\Bright\source\repos\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Bright\source\repos\Invoice\bin\Debug\Invoice.exe
+C:\Users\Bright\source\repos\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Bright\source\repos\Invoice\bin\Debug\Invoice.xml
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.Form1.resources
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.Resources.resources
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.exe
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.xml
+C:\Users\Bright\source\repos\Invoice\obj\Debug\Invoice.pdb
