@@ -1,0 +1,13 @@
+C:\Users\Bright\source\repos\WeeklyCalculator\bin\Debug\WeeklyCalculator.exe.config
+C:\Users\Bright\source\repos\WeeklyCalculator\bin\Debug\WeeklyCalculator.exe
+C:\Users\Bright\source\repos\WeeklyCalculator\bin\Debug\WeeklyCalculator.pdb
+C:\Users\Bright\source\repos\WeeklyCalculator\bin\Debug\WeeklyCalculator.xml
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.Form1.resources
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.Resources.resources
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.exe
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.xml
+C:\Users\Bright\source\repos\WeeklyCalculator\obj\Debug\WeeklyCalculator.pdb
