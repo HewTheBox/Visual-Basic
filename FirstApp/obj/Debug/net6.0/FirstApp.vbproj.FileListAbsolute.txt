@@ -1,0 +1,15 @@
+C:\Users\Bright\source\repos\FirstApp\bin\Debug\net6.0\FirstApp.exe
+C:\Users\Bright\source\repos\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+C:\Users\Bright\source\repos\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+C:\Users\Bright\source\repos\FirstApp\bin\Debug\net6.0\FirstApp.dll
+C:\Users\Bright\source\repos\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.vb
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.dll
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+C:\Users\Bright\source\repos\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll

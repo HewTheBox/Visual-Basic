@@ -1,0 +1,11 @@
+c:\users\bright\documents\visual studio 2015\Projects\evenAndOdd\bin\Debug\evenAndOdd.exe.config
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\bin\Debug\evenAndOdd.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\bin\Debug\evenAndOdd.pdb
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\bin\Debug\evenAndOdd.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.vbprojResolveAssemblyReference.cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.Form1.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.Resources.resources
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.vbproj.GenerateResource.Cache
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.exe
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.xml
+C:\Users\Bright\Documents\Visual Studio 2015\Projects\evenAndOdd\obj\Debug\evenAndOdd.pdb
